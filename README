@@ -1,0 +1,5 @@
+Unfinished: 
+
+Secret Santa currently creates a simple html page on a local server where the user can put in their name and email to be added to a firebase list. 
+
+Soon, I will add a button with capabilities to randomize the names and emails to send out a unique secret santa to every person. 
